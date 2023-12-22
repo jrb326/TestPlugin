@@ -1,0 +1,6 @@
+name: TestPlugin
+version: '${project.version}'
+main: me.x1xx.testplugin.TestPlugin
+authors: [X1XX]
+depend:
+  - MeteoriteAPI
